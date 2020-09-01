@@ -1,5 +1,9 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" style="width: 100%;"/>
 
+<h3 align="center">
+  Desafio 03: ReactJS Concepts
+</h3>
+
 <p align="center">
 <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
